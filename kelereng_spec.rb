@@ -1,4 +1,4 @@
-require "spec_helper"
+require "./kelereng"
 
 describe Track do
 	describe "#start" do
